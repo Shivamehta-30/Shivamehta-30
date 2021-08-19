@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivamehta-30
-- 👀 I’m interested in Database,python,django,html/css,PosgraseSQL,Oracle,Phpmyadmin and lots of other Programming Skills.
-- 🌱 I’m currently learning django,Software testing,Flask
+- 👀 I’m interested in python,django,html/css,PosgraseSQL,Oracle and lots of other Programming Skills.
+- 🌱 I’m currently learning django,Software testing
 - 📫 How to reach me - mehtashriv.30@gmail.com
 
 <!---
